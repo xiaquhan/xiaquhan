@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdd8d83e-ce83-4874-90da-b06630fb671c" name="更改" comment="RAG的基础学习">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Understanding_Climate_Change.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/customers-100.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desktop.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/xiaquhan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/xiaquhan.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RAG _base_study.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RAG _base_study.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="fdd8d83e-ce83-4874-90da-b06630fb671c" name="更改" comment="RAG的基础学习" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +34,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "正在变基 main"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -93,8 +84,43 @@
       <option name="project" value="LOCAL" />
       <updated>1773386959223</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="RAG的基础学习">
+      <option name="closed" value="true" />
+      <created>1773488558792</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773488558793</updated>
+    </task>
+    <task id="LOCAL-00006" summary="RAG的基础学习">
+      <option name="closed" value="true" />
+      <created>1773488728351</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773488728351</updated>
+    </task>
+    <task id="LOCAL-00007" summary="RAG的基础学习">
+      <option name="closed" value="true" />
+      <created>1773488833562</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773488833562</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="RAG的基础学习" />
